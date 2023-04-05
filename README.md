@@ -15,10 +15,6 @@
 #### 📫 How to reach me:
 - [Email](mailto:woker001@gmail.com)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=woker001&row=1&theme=radical" alt="worker001's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=woker001&show_icons=true&theme=radical" alt="woker001's GitHub stats">
-</p>
 
 <!--
 **woker001/woker001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
