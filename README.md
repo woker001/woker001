@@ -6,13 +6,9 @@
 #### 🌱 I'm currently learning ...
 - Tensorflow
 - Pyspark
+- Airflow, Streaming (Kafka)
+- K8s
 - AWS EMR
-
-#### 🔭 Interests ...
-- 데이터 분석 및 시각화
-- 데이터 모델링 및 최적화
-- 데이터 파이프라인 구축
-- 서빙 서버
 
 #### 📫 How to reach me:
 - [Email](mailto:woker001@gmail.com)
